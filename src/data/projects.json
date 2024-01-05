@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Snappy Chat App",
+    "imageSrc": "projects/project.png",
+    "description": "Real time chat app built with socket.io",
+    "skills": ["React", "Node", "Socket","JWT Auth"],
+    "demo": "https://snappy-container.ashybeach-23f770a6.australiaeast.azurecontainerapps.io",
+    "source": "https://github.com/Harshini3228/snappy-chat-app"
+  },
+  {
+    "title": "Video Streaming App",
+    "imageSrc": "projects/project.png",
+    "description": "Allows you to upload videos and stream",
+    "skills": ["Nest","React","JWT Auth"],
+    "demo": "https://video-app-backend-container.ashybeach-23f770a6.australiaeast.azurecontainerapps.io",
+    "source": "https://github.com/Harshini3228/video-streaming-app"
+  }
+]
