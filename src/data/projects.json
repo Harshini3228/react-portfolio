@@ -8,11 +8,11 @@
     "source": "https://github.com/Harshini3228/snappy-chat-app"
   },
   {
-    "title": "Video Streaming App",
+    "title": "Giphy Clone",
     "imageSrc": "projects/project.png",
-    "description": "Allows you to upload videos and stream",
-    "skills": ["Nest","React","JWT Auth"],
-    "demo": "https://video-app-backend-container.ashybeach-23f770a6.australiaeast.azurecontainerapps.io",
-    "source": "https://github.com/Harshini3228/video-streaming-app"
+    "description": "Clone of giphy website",
+    "skills": ["React","Tailwind"],
+    "demo": "https://giphy-clone-website.netlify.app/",
+    "source": "https://github.com/Harshini3228/react-giphy-clone/tree/main/giphy-clone-react"
   }
 ]

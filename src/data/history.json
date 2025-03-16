@@ -1,18 +1,26 @@
 [
   {
+    "role": "Associate Consultant- Full Stack",
+    "organisation": "Cognizant Servian",
+    "startDate": "March, 2023",
+    "endDate": "Current",
+    "experiences": [
+      "Architected and implemented NestJS microservices that connected Oracle databases, Azure services, and Kafka streams.",
+      "Deployed solutions to Kubernetes with KEDA auto-scaling. Developed PL/SQL data retrieval mechanisms.",
+      " Collaborated with cross-functional teams during planning, design and implementation phases.",
+      " Communicated technical solutions to stakeholders and maintained production systems for optimal performance."
+    ],
+    "imageSrc": "history/servian_logo.png"
+  },
+  {
     "role": "Full Stack Engineer",
     "organisation": "Tata Elxsi",
     "startDate": "Dev, 2019",
     "endDate": "Feb, 2023",
-    "experiences": ["Developed TEATOM, a product aimed at automating 5G network rollouts and operations.", "Was a contributor and active member of OSM-MANO, an ETSI hosted open source project."],
+    "experiences": [
+      "Developed TEATOM, a product aimed at automating 5G network rollouts and operations.",
+      "Was a contributor and active member of OSM-MANO, an ETSI hosted open source project."
+    ],
     "imageSrc": "history/tataelxsi.png"
-  },
-  {
-    "role": "Javascript Developer",
-    "organisation": "University of Sunshine Coast",
-    "startDate": "May, 2023",
-    "endDate": "Sep, 2023",
-    "experiences": ["Worked on Segment Integration with Unisc public website.", "Built consent manager feature to track user preferences."],
-    "imageSrc": "history/usc.png"
   }
 ]

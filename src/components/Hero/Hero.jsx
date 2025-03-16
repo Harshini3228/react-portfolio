@@ -9,10 +9,10 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Harshini</h1>
         <p className={styles.description}>
-          I'm a full-stack developer with 4 years of experience using Node JS, Angular, React and
-          Azure. Reach out if you'd like to learn more!
+          I'm a full-stack developer with 5+ years of experience using React, Node JS, Nest JS, Angular,
+          Azure and Terraform. Reach out if you'd like to learn more!
         </p>
-        <a href="mailto:harshini.rajagopal@cognizant.com" className={styles.contactBtn}>
+        <a href="mailto:harshini3228@gmail.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>

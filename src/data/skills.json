@@ -28,6 +28,10 @@
     "imageSrc": "skills/mongodb.png"
   },
   {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
     "title": "HTML",
     "imageSrc": "skills/html.png"
   },

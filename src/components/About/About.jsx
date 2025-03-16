@@ -39,7 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Azure Cloud Engineer</h3>
               <p>
-                I have deployed cloud infrastructure using Terraform and build piplines to automate processes
+                I have deployed cloud infrastructure using Terraform and built piplines to automate processes
               </p>
             </div>
           </li>
